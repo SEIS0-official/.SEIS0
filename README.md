@@ -1,3 +1,2 @@
-# .SEIS0 
-## Game Developer Team
+# Game Developer .SEIS0 
 
