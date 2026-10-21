@@ -1,2 +1,2 @@
-# Game Developer .SEIS0 
+# Develop .SEIS0 
 
